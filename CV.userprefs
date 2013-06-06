@@ -1,14 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CV/CVViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CV/AppDelegate.cs">
     <Files>
-      <File FileName="CV/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="CV/Controls.cs" Line="1" Column="1" />
-      <File FileName="CV/Controls/LoadingOverlay.cs" Line="1" Column="1" />
-      <File FileName="CV/Threading/DispatchAdapter.cs" Line="1" Column="1" />
-      <File FileName="CV/Threading/IDispatchOnUIThread.cs" Line="1" Column="1" />
+      <File FileName="CV/AppDelegate.cs" Line="34" Column="19" />
       <File FileName="CV/CVViewController.cs" Line="47" Column="47" />
-      <File FileName="CV/Main.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

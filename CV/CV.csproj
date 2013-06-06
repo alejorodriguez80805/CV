@@ -78,8 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
-    <Folder Include="Controls\" />
-    <Folder Include="Threading\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -87,16 +85,6 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="CVViewController.cs" />
-    <Compile Include="CVViewController.designer.cs">
-      <DependentUpon>CVViewController.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Controls\LoadingOverlay.cs" />
-    <Compile Include="Threading\DispatchAdapter.cs" />
-    <Compile Include="Threading\IDispatchOnUIThread.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <InterfaceDefinition Include="CVViewController.xib" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
