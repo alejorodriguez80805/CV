@@ -32,7 +32,7 @@ namespace CV
 
 			_rootElement = new RootElement ("CV"){
 				new Section ("Json"){
-					new JsonElement ("Descargar Json URL", "http://127.0.0.1:8000/backend/")
+					new JsonElement ("Descargar Json URL", "http://vitruu.herokuapp.com/backend/")
 				},
 			};
 
